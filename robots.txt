@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ginelgav.github.io/sitemap.html
+Sitemap: https://ginelgav.github.io/app/sitemap.html
+Sitemap: https://ginelgav.github.io/assets/sitemap.html
+Sitemap: https://ginelgav.github.io/includes/sitemap.html
+Sitemap: https://ginelgav.github.io/src/sitemap.html
